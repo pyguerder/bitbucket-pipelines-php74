@@ -6,7 +6,7 @@
 
 ### Packages installed
 
-- `php7.4-zip`, `php7.4-xml`, `php7.4-mbstring`, `php7.4-curl`, `php7.4-json`, `php7.4-imap`, `php7.4-mysql`, `php7.4-tokenizer`, `php7.4-xdebug`, `php7.4-intl`, `php7.4-soap`, `php7.4-pdo`, `php7.4-cli`, `php7.4-apcu` and `php7.4-gd`
+- `php7.4-zip`, `php7.4-xml`, `php7.4-mbstring`, `php7.4-curl`, `php7.4-json`, `php7.4-imap`, `php7.4-mysql`, `php7.4-tokenizer`, `php7.4-xdebug`, `php7.4-intl`, `php7.4-soap`, `php7.4-pdo`, `php7.4-cli`, `php7.4-apcu`, `php7.4-imagick` and `php7.4-gd`
 - wget, curl, unzip
 - Composer
 - Mysql 8 (or 5.7 if you use `pyguerder/bitbucket-pipelines-php74:mysql5`)
